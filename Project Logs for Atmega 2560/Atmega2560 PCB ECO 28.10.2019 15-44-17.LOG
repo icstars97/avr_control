@@ -1,0 +1,402 @@
+Added Component: Designator=*(ATMEGA 2560)
+Added Component: Designator=B1(DTSM 32)
+Added Component: Designator=Bottom(Connector)
+Added Component: Designator=Q1(hc-49sm)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=TOP(Connector)
+Added Pin To Net: NetName=ADC 0 Pin=*-97
+Added Pin To Net: NetName=ADC 0 Pin=*-97
+Added Pin To Net: NetName=ADC 0 Pin=TOP-32
+Added Net: Name=ADC 0
+Added Pin To Net: NetName=ADC 1 Pin=*-96
+Added Pin To Net: NetName=ADC 1 Pin=*-96
+Added Pin To Net: NetName=ADC 1 Pin=TOP-33
+Added Net: Name=ADC 1
+Added Pin To Net: NetName=ADC 2 Pin=*-95
+Added Pin To Net: NetName=ADC 2 Pin=*-95
+Added Pin To Net: NetName=ADC 2 Pin=TOP-34
+Added Net: Name=ADC 2
+Added Pin To Net: NetName=ADC 3 Pin=*-94
+Added Pin To Net: NetName=ADC 3 Pin=*-94
+Added Pin To Net: NetName=ADC 3 Pin=TOP-35
+Added Net: Name=ADC 3
+Added Pin To Net: NetName=ADC 4 Pin=*-89
+Added Pin To Net: NetName=ADC 4 Pin=*-89
+Added Pin To Net: NetName=ADC 4 Pin=Bottom-31
+Added Net: Name=ADC 4
+Added Pin To Net: NetName=ADC 5 Pin=*-88
+Added Pin To Net: NetName=ADC 5 Pin=*-88
+Added Pin To Net: NetName=ADC 5 Pin=Bottom-30
+Added Net: Name=ADC 5
+Added Pin To Net: NetName=ADC 6 Pin=*-87
+Added Pin To Net: NetName=ADC 6 Pin=*-87
+Added Pin To Net: NetName=ADC 6 Pin=Bottom-29
+Added Net: Name=ADC 6
+Added Pin To Net: NetName=ADC 7 Pin=*-86
+Added Pin To Net: NetName=ADC 7 Pin=*-86
+Added Pin To Net: NetName=ADC 7 Pin=Bottom-28
+Added Net: Name=ADC 7
+Added Pin To Net: NetName=AREF Pin=*-98
+Added Pin To Net: NetName=AREF Pin=*-98
+Added Pin To Net: NetName=AREF Pin=*-100
+Added Pin To Net: NetName=AREF Pin=*-100
+Added Pin To Net: NetName=AREF Pin=R1-1
+Added Net: Name=AREF
+Added Pin To Net: NetName=GND Pin=*-11
+Added Pin To Net: NetName=GND Pin=*-11
+Added Pin To Net: NetName=GND Pin=*-32
+Added Pin To Net: NetName=GND Pin=*-32
+Added Pin To Net: NetName=GND Pin=*-62
+Added Pin To Net: NetName=GND Pin=*-62
+Added Pin To Net: NetName=GND Pin=*-81
+Added Pin To Net: NetName=GND Pin=*-81
+Added Pin To Net: NetName=GND Pin=*-99
+Added Pin To Net: NetName=GND Pin=*-99
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=TOP-0
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=Q1-1
+Added Net: Name=Net*_33
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=Q1-2
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=PA 0 Pin=*-78
+Added Pin To Net: NetName=PA 0 Pin=*-78
+Added Pin To Net: NetName=PA 0 Pin=TOP-45
+Added Net: Name=PA 0
+Added Pin To Net: NetName=PA 1 Pin=*-77
+Added Pin To Net: NetName=PA 1 Pin=*-77
+Added Pin To Net: NetName=PA 1 Pin=TOP-44
+Added Net: Name=PA 1
+Added Pin To Net: NetName=PA 2 Pin=*-76
+Added Pin To Net: NetName=PA 2 Pin=*-76
+Added Pin To Net: NetName=PA 2 Pin=TOP-43
+Added Net: Name=PA 2
+Added Pin To Net: NetName=PA 3 Pin=*-75
+Added Pin To Net: NetName=PA 3 Pin=*-75
+Added Pin To Net: NetName=PA 3 Pin=TOP-42
+Added Net: Name=PA 3
+Added Pin To Net: NetName=PA 4 Pin=*-74
+Added Pin To Net: NetName=PA 4 Pin=*-74
+Added Pin To Net: NetName=PA 4 Pin=TOP-41
+Added Net: Name=PA 4
+Added Pin To Net: NetName=PA 5 Pin=*-73
+Added Pin To Net: NetName=PA 5 Pin=*-73
+Added Pin To Net: NetName=PA 5 Pin=TOP-40
+Added Net: Name=PA 5
+Added Pin To Net: NetName=PA 6 Pin=*-72
+Added Pin To Net: NetName=PA 6 Pin=*-72
+Added Pin To Net: NetName=PA 6 Pin=TOP-39
+Added Net: Name=PA 6
+Added Pin To Net: NetName=PA 7 Pin=*-71
+Added Pin To Net: NetName=PA 7 Pin=*-71
+Added Pin To Net: NetName=PA 7 Pin=TOP-38
+Added Net: Name=PA 7
+Added Pin To Net: NetName=PB 4 Pin=*-23
+Added Pin To Net: NetName=PB 4 Pin=*-23
+Added Pin To Net: NetName=PB 4 Pin=Bottom-3
+Added Net: Name=PB 4
+Added Pin To Net: NetName=PB 5 Pin=*-24
+Added Pin To Net: NetName=PB 5 Pin=*-24
+Added Pin To Net: NetName=PB 5 Pin=Bottom-4
+Added Net: Name=PB 5
+Added Pin To Net: NetName=PB 6 Pin=*-25
+Added Pin To Net: NetName=PB 6 Pin=*-25
+Added Pin To Net: NetName=PB 6 Pin=Bottom-5
+Added Net: Name=PB 6
+Added Pin To Net: NetName=PB 7 Pin=*-26
+Added Pin To Net: NetName=PB 7 Pin=*-26
+Added Pin To Net: NetName=PB 7 Pin=Bottom-6
+Added Net: Name=PB 7
+Added Pin To Net: NetName=PC 0 Pin=*-53
+Added Pin To Net: NetName=PC 0 Pin=*-53
+Added Pin To Net: NetName=PC 0 Pin=Bottom-60
+Added Net: Name=PC 0
+Added Pin To Net: NetName=PC 1 Pin=*-54
+Added Pin To Net: NetName=PC 1 Pin=*-54
+Added Pin To Net: NetName=PC 1 Pin=Bottom-59
+Added Net: Name=PC 1
+Added Pin To Net: NetName=PC 2 Pin=*-55
+Added Pin To Net: NetName=PC 2 Pin=*-55
+Added Pin To Net: NetName=PC 2 Pin=Bottom-58
+Added Net: Name=PC 2
+Added Pin To Net: NetName=PC 3 Pin=*-56
+Added Pin To Net: NetName=PC 3 Pin=*-56
+Added Pin To Net: NetName=PC 3 Pin=Bottom-57
+Added Net: Name=PC 3
+Added Pin To Net: NetName=PC 4 Pin=*-57
+Added Pin To Net: NetName=PC 4 Pin=*-57
+Added Pin To Net: NetName=PC 4 Pin=Bottom-56
+Added Net: Name=PC 4
+Added Pin To Net: NetName=PC 5 Pin=*-58
+Added Pin To Net: NetName=PC 5 Pin=*-58
+Added Pin To Net: NetName=PC 5 Pin=Bottom-55
+Added Net: Name=PC 5
+Added Pin To Net: NetName=PC 6 Pin=*-59
+Added Pin To Net: NetName=PC 6 Pin=*-59
+Added Pin To Net: NetName=PC 6 Pin=Bottom-54
+Added Net: Name=PC 6
+Added Pin To Net: NetName=PC 7 Pin=*-60
+Added Pin To Net: NetName=PC 7 Pin=*-60
+Added Pin To Net: NetName=PC 7 Pin=Bottom-53
+Added Net: Name=PC 7
+Added Pin To Net: NetName=PD 4 Pin=*-47
+Added Pin To Net: NetName=PD 4 Pin=*-47
+Added Pin To Net: NetName=PD 4 Pin=Bottom-22
+Added Net: Name=PD 4
+Added Pin To Net: NetName=PD 5 Pin=*-48
+Added Pin To Net: NetName=PD 5 Pin=*-48
+Added Pin To Net: NetName=PD 5 Pin=Bottom-25
+Added Net: Name=PD 5
+Added Pin To Net: NetName=PD 6 Pin=*-49
+Added Pin To Net: NetName=PD 6 Pin=*-49
+Added Pin To Net: NetName=PD 6 Pin=Bottom-23
+Added Net: Name=PD 6
+Added Pin To Net: NetName=PD 7 Pin=*-50
+Added Pin To Net: NetName=PD 7 Pin=*-50
+Added Pin To Net: NetName=PD 7 Pin=Bottom-24
+Added Net: Name=PD 7
+Added Pin To Net: NetName=PE 0 Pin=*-2
+Added Pin To Net: NetName=PE 0 Pin=*-2
+Added Pin To Net: NetName=PE 0 Pin=TOP-53
+Added Net: Name=PE 0
+Added Pin To Net: NetName=PE 1 Pin=*-3
+Added Pin To Net: NetName=PE 1 Pin=*-3
+Added Pin To Net: NetName=PE 1 Pin=TOP-54
+Added Net: Name=PE 1
+Added Pin To Net: NetName=PE 2 Pin=*-4
+Added Pin To Net: NetName=PE 2 Pin=*-4
+Added Pin To Net: NetName=PE 2 Pin=TOP-55
+Added Net: Name=PE 2
+Added Pin To Net: NetName=PE 3 Pin=*-5
+Added Pin To Net: NetName=PE 3 Pin=*-5
+Added Pin To Net: NetName=PE 3 Pin=TOP-56
+Added Net: Name=PE 3
+Added Pin To Net: NetName=PE 4 Pin=*-6
+Added Pin To Net: NetName=PE 4 Pin=*-6
+Added Pin To Net: NetName=PE 4 Pin=TOP-57
+Added Net: Name=PE 4
+Added Pin To Net: NetName=PE 5 Pin=*-7
+Added Pin To Net: NetName=PE 5 Pin=*-7
+Added Pin To Net: NetName=PE 5 Pin=TOP-58
+Added Net: Name=PE 5
+Added Pin To Net: NetName=PE 6 Pin=*-8
+Added Pin To Net: NetName=PE 6 Pin=*-8
+Added Pin To Net: NetName=PE 6 Pin=TOP-59
+Added Net: Name=PE 6
+Added Pin To Net: NetName=PE 7 Pin=*-9
+Added Pin To Net: NetName=PE 7 Pin=*-9
+Added Pin To Net: NetName=PE 7 Pin=TOP-60
+Added Net: Name=PE 7
+Added Pin To Net: NetName=PF 4 Pin=*-93
+Added Pin To Net: NetName=PF 4 Pin=*-93
+Added Pin To Net: NetName=PF 4 Pin=TOP-15
+Added Net: Name=PF 4
+Added Pin To Net: NetName=PF 5 Pin=*-92
+Added Pin To Net: NetName=PF 5 Pin=*-92
+Added Pin To Net: NetName=PF 5 Pin=TOP-16
+Added Net: Name=PF 5
+Added Pin To Net: NetName=PF 6 Pin=*-91
+Added Pin To Net: NetName=PF 6 Pin=*-91
+Added Pin To Net: NetName=PF 6 Pin=TOP-17
+Added Net: Name=PF 6
+Added Pin To Net: NetName=PF 7 Pin=*-90
+Added Pin To Net: NetName=PF 7 Pin=*-90
+Added Pin To Net: NetName=PF 7 Pin=TOP-18
+Added Net: Name=PF 7
+Added Pin To Net: NetName=PG 2 Pin=*-70
+Added Pin To Net: NetName=PG 2 Pin=*-70
+Added Pin To Net: NetName=PG 2 Pin=TOP-37
+Added Net: Name=PG 2
+Added Pin To Net: NetName=PG 3 Pin=*-29
+Added Pin To Net: NetName=PG 3 Pin=*-29
+Added Pin To Net: NetName=PG 3 Pin=Bottom-8
+Added Net: Name=PG 3
+Added Pin To Net: NetName=PG 4 Pin=*-28
+Added Pin To Net: NetName=PG 4 Pin=*-28
+Added Pin To Net: NetName=PG 4 Pin=Bottom-9
+Added Net: Name=PG 4
+Added Pin To Net: NetName=PG 5 Pin=*-1
+Added Pin To Net: NetName=PG 5 Pin=*-1
+Added Pin To Net: NetName=PG 5 Pin=Bottom-38
+Added Net: Name=PG 5
+Added Pin To Net: NetName=PH 0 Pin=*-12
+Added Pin To Net: NetName=PH 0 Pin=*-12
+Added Pin To Net: NetName=PH 0 Pin=Bottom-10
+Added Net: Name=PH 0
+Added Pin To Net: NetName=PH 1 Pin=*-13
+Added Pin To Net: NetName=PH 1 Pin=*-13
+Added Pin To Net: NetName=PH 1 Pin=Bottom-11
+Added Net: Name=PH 1
+Added Pin To Net: NetName=PH 2 Pin=*-14
+Added Pin To Net: NetName=PH 2 Pin=*-14
+Added Pin To Net: NetName=PH 2 Pin=Bottom-12
+Added Net: Name=PH 2
+Added Pin To Net: NetName=PH 3 Pin=*-15
+Added Pin To Net: NetName=PH 3 Pin=*-15
+Added Pin To Net: NetName=PH 3 Pin=Bottom-13
+Added Net: Name=PH 3
+Added Pin To Net: NetName=PH 4 Pin=*-16
+Added Pin To Net: NetName=PH 4 Pin=*-16
+Added Pin To Net: NetName=PH 4 Pin=Bottom-14
+Added Net: Name=PH 4
+Added Pin To Net: NetName=PH 5 Pin=*-17
+Added Pin To Net: NetName=PH 5 Pin=*-17
+Added Pin To Net: NetName=PH 5 Pin=Bottom-15
+Added Net: Name=PH 5
+Added Pin To Net: NetName=PH 6 Pin=*-18
+Added Pin To Net: NetName=PH 6 Pin=*-18
+Added Pin To Net: NetName=PH 6 Pin=Bottom-16
+Added Net: Name=PH 6
+Added Pin To Net: NetName=PH 7 Pin=*-27
+Added Pin To Net: NetName=PH 7 Pin=*-27
+Added Pin To Net: NetName=PH 7 Pin=Bottom-7
+Added Net: Name=PH 7
+Added Pin To Net: NetName=PJ 0 Pin=*-63
+Added Pin To Net: NetName=PJ 0 Pin=*-63
+Added Pin To Net: NetName=PJ 0 Pin=Bottom-41
+Added Net: Name=PJ 0
+Added Pin To Net: NetName=PJ 1 Pin=*-64
+Added Pin To Net: NetName=PJ 1 Pin=*-64
+Added Pin To Net: NetName=PJ 1 Pin=Bottom-40
+Added Net: Name=PJ 1
+Added Pin To Net: NetName=PJ 2 Pin=*-65
+Added Pin To Net: NetName=PJ 2 Pin=*-65
+Added Pin To Net: NetName=PJ 2 Pin=Bottom-39
+Added Net: Name=PJ 2
+Added Pin To Net: NetName=PJ 3 Pin=*-66
+Added Pin To Net: NetName=PJ 3 Pin=*-66
+Added Pin To Net: NetName=PJ 3 Pin=TOP-22
+Added Net: Name=PJ 3
+Added Pin To Net: NetName=PJ 4 Pin=*-67
+Added Pin To Net: NetName=PJ 4 Pin=*-67
+Added Pin To Net: NetName=PJ 4 Pin=TOP-21
+Added Net: Name=PJ 4
+Added Pin To Net: NetName=PJ 5 Pin=*-68
+Added Pin To Net: NetName=PJ 5 Pin=*-68
+Added Pin To Net: NetName=PJ 5 Pin=TOP-20
+Added Net: Name=PJ 5
+Added Pin To Net: NetName=PJ 6 Pin=*-69
+Added Pin To Net: NetName=PJ 6 Pin=*-69
+Added Pin To Net: NetName=PJ 6 Pin=TOP-19
+Added Net: Name=PJ 6
+Added Pin To Net: NetName=PJ 7 Pin=*-79
+Added Pin To Net: NetName=PJ 7 Pin=*-79
+Added Pin To Net: NetName=PJ 7 Pin=TOP-46
+Added Net: Name=PJ 7
+Added Pin To Net: NetName=PK 4 Pin=*-85
+Added Pin To Net: NetName=PK 4 Pin=*-85
+Added Pin To Net: NetName=PK 4 Pin=TOP-50
+Added Net: Name=PK 4
+Added Pin To Net: NetName=PK 5 Pin=*-84
+Added Pin To Net: NetName=PK 5 Pin=*-84
+Added Pin To Net: NetName=PK 5 Pin=TOP-49
+Added Net: Name=PK 5
+Added Pin To Net: NetName=PK 6 Pin=*-83
+Added Pin To Net: NetName=PK 6 Pin=*-83
+Added Pin To Net: NetName=PK 6 Pin=TOP-48
+Added Net: Name=PK 6
+Added Pin To Net: NetName=PK 7 Pin=*-82
+Added Pin To Net: NetName=PK 7 Pin=*-82
+Added Pin To Net: NetName=PK 7 Pin=TOP-47
+Added Net: Name=PK 7
+Added Pin To Net: NetName=PL 0 Pin=*-35
+Added Pin To Net: NetName=PL 0 Pin=*-35
+Added Pin To Net: NetName=PL 0 Pin=Bottom-52
+Added Net: Name=PL 0
+Added Pin To Net: NetName=PL 1 Pin=*-36
+Added Pin To Net: NetName=PL 1 Pin=*-36
+Added Pin To Net: NetName=PL 1 Pin=Bottom-51
+Added Net: Name=PL 1
+Added Pin To Net: NetName=PL 2 Pin=*-37
+Added Pin To Net: NetName=PL 2 Pin=*-37
+Added Pin To Net: NetName=PL 2 Pin=Bottom-50
+Added Net: Name=PL 2
+Added Pin To Net: NetName=PL 3 Pin=*-38
+Added Pin To Net: NetName=PL 3 Pin=*-38
+Added Pin To Net: NetName=PL 3 Pin=Bottom-49
+Added Net: Name=PL 3
+Added Pin To Net: NetName=PL 4 Pin=*-39
+Added Pin To Net: NetName=PL 4 Pin=*-39
+Added Pin To Net: NetName=PL 4 Pin=Bottom-48
+Added Net: Name=PL 4
+Added Pin To Net: NetName=PL 5 Pin=*-40
+Added Pin To Net: NetName=PL 5 Pin=*-40
+Added Pin To Net: NetName=PL 5 Pin=Bottom-47
+Added Net: Name=PL 5
+Added Pin To Net: NetName=PL 6 Pin=*-41
+Added Pin To Net: NetName=PL 6 Pin=*-41
+Added Pin To Net: NetName=PL 6 Pin=Bottom-46
+Added Net: Name=PL 6
+Added Pin To Net: NetName=PL 7 Pin=*-42
+Added Pin To Net: NetName=PL 7 Pin=*-42
+Added Pin To Net: NetName=PL 7 Pin=Bottom-45
+Added Net: Name=PL 7
+Added Pin To Net: NetName=R\D\ Pin=*-52
+Added Pin To Net: NetName=R\D\ Pin=*-52
+Added Pin To Net: NetName=R\D\ Pin=Bottom-36
+Added Net: Name=R\D\
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=*-30
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=*-30
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=B1-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R4-1
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=RX Pin=*-45
+Added Pin To Net: NetName=RX Pin=*-45
+Added Pin To Net: NetName=RX Pin=Bottom-26
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=*-43
+Added Pin To Net: NetName=SCL Pin=*-43
+Added Pin To Net: NetName=SCL Pin=R3-2
+Added Pin To Net: NetName=SCL Pin=TOP-36
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=*-44
+Added Pin To Net: NetName=SDA Pin=*-44
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SDA Pin=TOP-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=SPI 1 Pin=*-19
+Added Pin To Net: NetName=SPI 1 Pin=*-19
+Added Pin To Net: NetName=SPI 1 Pin=TOP-26
+Added Net: Name=SPI 1
+Added Pin To Net: NetName=SPI 2 Pin=*-20
+Added Pin To Net: NetName=SPI 2 Pin=*-20
+Added Pin To Net: NetName=SPI 2 Pin=TOP-25
+Added Net: Name=SPI 2
+Added Pin To Net: NetName=SPI 3 Pin=*-21
+Added Pin To Net: NetName=SPI 3 Pin=*-21
+Added Pin To Net: NetName=SPI 3 Pin=TOP-24
+Added Net: Name=SPI 3
+Added Pin To Net: NetName=SPI 4 Pin=*-22
+Added Pin To Net: NetName=SPI 4 Pin=*-22
+Added Pin To Net: NetName=SPI 4 Pin=TOP-23
+Added Net: Name=SPI 4
+Added Pin To Net: NetName=TX Pin=*-46
+Added Pin To Net: NetName=TX Pin=*-46
+Added Pin To Net: NetName=TX Pin=Bottom-27
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=*-10
+Added Pin To Net: NetName=VCC Pin=*-10
+Added Pin To Net: NetName=VCC Pin=*-31
+Added Pin To Net: NetName=VCC Pin=*-31
+Added Pin To Net: NetName=VCC Pin=*-61
+Added Pin To Net: NetName=VCC Pin=*-61
+Added Pin To Net: NetName=VCC Pin=*-80
+Added Pin To Net: NetName=VCC Pin=*-80
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=TOP-62
+Added Net: Name=VCC
+Added Pin To Net: NetName=W\R\ Pin=*-51
+Added Pin To Net: NetName=W\R\ Pin=*-51
+Added Pin To Net: NetName=W\R\ Pin=Bottom-37
+Added Net: Name=W\R\
+Added Class: Name=Atmega 2560
