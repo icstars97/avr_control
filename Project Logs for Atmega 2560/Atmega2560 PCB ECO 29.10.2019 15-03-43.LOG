@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=PF 4 Pin=TOP-15
+Removed Pin From Net: NetName=PF 5 Pin=TOP-16
+Removed Pin From Net: NetName=PF 6 Pin=TOP-17
+Removed Pin From Net: NetName=PF 7 Pin=TOP-18
+Added Component: Designator=1(JTAG)
+Added Component: Designator=C1(R0805)
+Added Component: Designator=C2(R0805)
+Added Component: Designator=C3(R0805)
+Added Component: Designator=C4(R0805)
+Added Component: Designator=C5(R0805)
+Added Component: Designator=TanC1(tantal cap)
+Added Pin To Net: NetName=VCC Pin=1-1
+Added Pin To Net: NetName=PF 5 Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-3
+Added Pin To Net: NetName=PF 4 Pin=1-4
+Added Pin To Net: NetName=GND Pin=1-5
+Added Pin To Net: NetName=PF 6 Pin=1-6
+Added Pin To Net: NetName=PF 7 Pin=1-8
+Added Pin To Net: NetName=GND Pin=1-9
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=1-10
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=TanC1-0
+Added Pin To Net: NetName=VCC Pin=TanC1-1
+Change Net Name : Old Net Name=GND New Net Name=GND PRO
+Change Net Name : Old Net Name=VCC New Net Name=VCC PRO
+Added Member To Class: ClassName=Atmega 2560 Member=Component 1 JTAG
+Added Member To Class: ClassName=Atmega 2560 Member=Component C1 CAPACITY
+Added Member To Class: ClassName=Atmega 2560 Member=Component C2 CAPACITY
+Added Member To Class: ClassName=Atmega 2560 Member=Component C3 CAPACITY
+Added Member To Class: ClassName=Atmega 2560 Member=Component C4 CAPACITY
+Added Member To Class: ClassName=Atmega 2560 Member=Component C5 CAPACITY
+Added Member To Class: ClassName=Atmega 2560 Member=Component TanC1 0.1 ÏÍ‘
